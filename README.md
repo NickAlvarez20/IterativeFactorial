@@ -34,7 +34,7 @@ Clone the repository to your local machine:
 ## Usage
 Run the JavaScript script (e.g., factorial.js) in a JavaScript environment, such as Node.js or a browser console: 
 
-`node factorial.js`
+`node learnFactorial.js`
 
 ## Learning Outcomes
 This project helped me:
